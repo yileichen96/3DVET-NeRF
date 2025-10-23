@@ -1,3 +1,5 @@
 # 3DVET-NeRF
 
-In progress
+## Updates
++ [2025.10.23] Code and pretrained_model are released. (Instruction is in progress)
++ [2025.10.23] **[Project Page]([https://mvsgaussian.github.io/](https://yileichen96.github.io/3DVET-NeRF/))** released.
