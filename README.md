@@ -1,4 +1,4 @@
-# 3DVET-NeRF
+# Volume Feature Aware View-Epipolar Transformers for Generalizable NeRF
 PyTorch implementation of "Volume Feature Aware View-Epipolar Transformers for Generalizable NeRF", TVCG 2025.
 
 > Volume Feature Aware View-Epipolar Transformers for Generalizable NeRF
