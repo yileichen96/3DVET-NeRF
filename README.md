@@ -1,5 +1,5 @@
 # Volume Feature Aware View-Epipolar Transformers for Generalizable NeRF
-#### [Project Page](https://yileichen96.github.io/3DVET-NeRF/) | [Paper](https://ieeexplore.ieee.org/document/11203881)
+### [Project Page](https://yileichen96.github.io/3DVET-NeRF/) | [Paper](https://ieeexplore.ieee.org/document/11203881)
 
 > Volume Feature Aware View-Epipolar Transformers for Generalizable NeRF  
 > [Yilei Chen](https://yileichen96.github.io/), [Ping An](https://scie.shu.edu.cn/Prof/anping.htm), [Xinpeng Huang](https://scholar.google.com/citations?user=FmK3XiwAAAAJ&hl=zh-CN), [Qiang Wu](https://profiles.uts.edu.au/qiang.wu)    
