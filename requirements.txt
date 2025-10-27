@@ -1,0 +1,14 @@
+ConfigArgParse==1.7
+imageio==2.9.0
+kornia==0.7.2
+lpips==0.1.4
+matplotlib==3.7.5
+numpy==1.24.1
+opencv_contrib_python==4.9.0.80
+pandas==2.0.3
+pillow==10.2.0
+scikit_image==0.18.3
+scipy==1.10.1
+torch==2.1.1+cu121
+torchvision==0.16.1+cu121
+tqdm==4.66.2
