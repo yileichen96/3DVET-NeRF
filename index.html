@@ -239,15 +239,18 @@ document.addEventListener('DOMContentLoaded', function () {
 </section>
 
 <section class="section">
-  <div class="container">
-    <div class="columns is-centered has-text-centered">
-      <div class="column is-two-thirds">
-        <h2 class="title is-4">Abstract</h2>
-        <div class="content has-text-justified">
-          <p>
-          Generalizable NeRF synthesizes novel views of un seen scenes without per-scene training. The view-epipolar trans former has become popular in this field for its ability to produce high-quality views. Existing methods with this architecture rely on the assumption that texture consistency across views can identify object surfaces, with such identification crucial for deter mining where to reconstruct texture. However, this assumption is not always valid, as different surface positions may share similar texture features, creating ambiguity in surface identification. To handle this ambiguity, this paper introduces 3D volume features into the view-epipolar transformer. These features contain geometric information, which will be a supplement to texture features. By incorporating both texture and geometric cues in consistency measurement, our method mitigates the ambiguity in surface detection. This leads to more accurate surfaces and thus better novel view synthesis. Additionally, we propose a decoupled decoder where volume and texture features are used for density and color prediction respectively. In this way, the two properties can be better predicted without mutual interference. Experiments show improved results over existing transformer-based methods on both real-world and synthetic datasets.
-          </p>
-        </div>
+  <!-- <div class="container"> -->
+  <div class="container is-max-desktop">
+    <!-- <div class="columns is-centered has-text-centered">
+      <div class="column is-two-thirds"> -->
+	 <div class="columns is-centered">
+        <div class="column is-full-width has-text-centered">
+          <h2 class="title is-4">Abstract</h2>
+          <div class="content has-text-justified">
+            <p>
+              Generalizable NeRF synthesizes novel views of un seen scenes without per-scene training. The view-epipolar trans former has become popular in this field for its ability to produce high-quality views. Existing methods with this architecture rely on the assumption that texture consistency across views can identify object surfaces, with such identification crucial for deter mining where to reconstruct texture. However, this assumption is not always valid, as different surface positions may share similar texture features, creating ambiguity in surface identification. To handle this ambiguity, this paper introduces 3D volume features into the view-epipolar transformer. These features contain geometric information, which will be a supplement to texture features. By incorporating both texture and geometric cues in consistency measurement, our method mitigates the ambiguity in surface detection. This leads to more accurate surfaces and thus better novel view synthesis. Additionally, we propose a decoupled decoder where volume and texture features are used for density and color prediction respectively. In this way, the two properties can be better predicted without mutual interference. Experiments show improved results over existing transformer-based methods on both real-world and synthetic datasets.
+            </p>
+          </div>
       </div>
     </div>
   </div>
